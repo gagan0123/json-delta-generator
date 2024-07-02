@@ -1,0 +1,8 @@
+# IDE Directories
+.idea/
+
+# Node.js directories
+./node_modules/
+
+# Sample JSON files
+/*.json
